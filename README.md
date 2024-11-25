@@ -6,6 +6,10 @@
 
 https://zelikk.blogspot.com/2023/10/huashengdun-webssh-codesandbox.html
 
+koyeb-Run command
+
+python run.py --xsrf=False --xheaders=False --origin='*' --debug --delay=6
+
 <details>
     <summary>原项目readme (点击展开)</summary>
   
